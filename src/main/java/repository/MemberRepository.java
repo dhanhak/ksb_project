@@ -53,5 +53,6 @@ public class MemberRepository {
                 throw new Exception("회원가입에 실패하였습니다.");
             }
         }
+        
     }
 }
